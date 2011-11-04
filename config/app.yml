@@ -1,0 +1,3 @@
+all:
+  sfAlohaEditorPlugin:
+    aloha_assets_dir: /sfAlohaEditorPlugin/aloha
